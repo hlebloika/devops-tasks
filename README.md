@@ -1,2 +1,6 @@
 # devops-tasks
-Practical tasks to improve skill in different areas of Devops
+
+* Jenkins installation
+  * Provision infrastructure for jenkins in AWS (vm, security group, lb)
+  * Create Ansible playbook to install jenkins 
+
